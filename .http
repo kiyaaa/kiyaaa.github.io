@@ -1,0 +1,10 @@
+GET https://google.com HTTP/1.1
+
+
+POST https://google.com HTTP/1.1
+Authorization: JWT jttjtjtjtjt
+Content-Type: "application/json"
+
+{
+    "hello":"love"    
+}
